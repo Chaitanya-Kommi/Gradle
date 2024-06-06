@@ -30,3 +30,8 @@ gradle build - This will execute some tasks like compile test and package the cl
 gradle clean - This will delete the build directory and re-create the build directory for the project.
 
 This jar file located in project folder and in build folder and in lib folder.
+
+
+Gradle directory Structure
+
+![(ttps://www.softpost.org/gradle/Gradle-standard-directory-structure.png)]
