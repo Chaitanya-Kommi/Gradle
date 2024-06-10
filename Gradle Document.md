@@ -6,20 +6,20 @@ Compile project source code
 Execute unit tests
 Package sourec code into executable format eg:- (War file and Jar file)
 
-===========================================================================================
+=========================================================================
 By performing above steps we will convert our project into executable file.
 
 To do all the required things as above we need to use build tools
 Eg;- Gradle,Ant,Maven
 
-===========================================================================================
+=========================================================================
 set-up Gradle
 
 we need java as a pre-requisite
 Download gradle and set environment variable
 Check the gradle version
 
-===========================================================================================
+=========================================================================
 
 To use Gradle we called it as Gradle tasks below are the tasks to use Gradle:
 
