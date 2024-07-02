@@ -24,9 +24,13 @@ Check the gradle version
 To use Gradle we called it as Gradle tasks below are the tasks to use Gradle:
 
 gradle init  - To create a structered directory for a required project.
+
 gradle compile - This will compile our project.
+
 gradle run - This will compile and run the project.
+
 gradle build - This will execute some tasks like compile test and package the class into a (jar or war) file.
+
 gradle clean - This will delete the build directory and re-create the build directory for the project.
 
 This jar file located in project folder and in build folder and in lib folder.
